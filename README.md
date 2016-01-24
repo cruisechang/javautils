@@ -7,6 +7,6 @@
 * CSV/Json/xml
 
 
-## License
-Apache License 2.0
+### License
+The MIT License
 
